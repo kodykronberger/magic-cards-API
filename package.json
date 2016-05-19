@@ -1,0 +1,22 @@
+{
+  "name": "magic-cards-api",
+  "version": "1.0.0",
+  "description": "An API for retrieving data about MTG cards.",
+  "main": "cardAPI.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kodykronberger/magic-cards-API.git"
+  },
+  "author": "Dakota Kronberger",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kodykronberger/magic-cards-API/issues"
+  },
+  "homepage": "https://github.com/kodykronberger/magic-cards-API#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
